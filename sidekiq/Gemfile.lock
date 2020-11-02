@@ -1,0 +1,16 @@
+PATH
+  remote: /Users/lizhifeng/Desktop/my_project/big_project/connection_pool
+  specs:
+    connection_pool (1.0.1)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  connection_pool!
+
+BUNDLED WITH
+   2.0.2

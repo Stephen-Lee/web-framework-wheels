@@ -1,0 +1,1 @@
+gem 'connection_pool', path: '/Users/lizhifeng/Desktop/my_project/big_project/connection_pool'
